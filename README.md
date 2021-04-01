@@ -1,4 +1,4 @@
-# direct-intrinsic-evaluation
+# Supplementary materials for direct intrinsic evaluation of word embeddings
   
 In this directory the stimuli, results and code of analysis of our study can be found.
 

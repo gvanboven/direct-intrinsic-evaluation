@@ -7,7 +7,7 @@ The folder 'Model_results' includes the nearest neighbours of the models used.
 In the folder 'Test_results' the responses of the participants can be found. 
 An example of each experiment is included. 
 
-The scores in the 'Results_OutDet_participantx.csv'can be interpreted as follows:
+The scores in the 'Results_OutDet_participantx.csv'can be interpreted as follows: \n
 -1 = none option
 0 = wrong answer
 1 = right answer

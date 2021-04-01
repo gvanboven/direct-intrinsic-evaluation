@@ -1,0 +1,48 @@
+Synonym Detection Task
+----------------------
+Test instructions
+
+In the following questions you will be asked to select the word that you
+think is most related to a given target word. Within the context of this test,
+relatedness is defined in the following relations:
+
+- words that have a similar meaning (synonymy), e.g. ’car’ and ’vehicle’
+- relation between the part and the whole (meronymy), e.g. ’car’ and ’wheel’
+- one word is a super term of the other (hyperonymy) e.g. ’animal’ and
+’monkey’
+- word share a super term, e.g. ’dog’ and ’cat’
+- other types of conceptual relations
+
+All the target words are terms used by philosopher Willard Von Orman
+Quine, so please keep his usage and definitions in mind when answering the
+questions.
+
+It is allowed to look up the meaning of a word, eg. in the work of Quine, or
+somewhere else. Please do not ask anyone else for the meaning of a term and
+do not discuss your answers with anybody.
+
+The option 'None of these words is even remotely related' can be selected either
+when you think none of the options has any relation to the target word, or
+when none of the options is familiar to you.
+
+
+
+Coherence Task
+---------------------------
+
+Test instructions
+
+In the following questions you will be asked to select the word that does not
+belong to the group. An example of such a group would be {cat, dog, banana, mouse}, where
+banana is the outlier.
+
+If you do not know the meaning of a word you are allowed to look it up, but
+please do not discuss it with anybody else.
+
+Please take the option words literally, if misspelled please do not interpret
+what word was actually meant, but judge it as it is written.
+
+If no three words from the option words form a coherent group, please select
+the options 'No coherent group can be formed from these words'. Please only
+select this option if you are unable to find any sort of relation that exists
+between three of the words.

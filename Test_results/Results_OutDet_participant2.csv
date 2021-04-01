@@ -1,0 +1,21 @@
+vraagnummer;W2V;N2V;SVD;Freq;Word
+1;-1;1;-1;low;Sense datum
+2;-1;1;-1;low;Intensional abstraction
+3;-1;0;1;low;Truth Vehicles
+4;-1;-1;0;low;conditioning
+5;-1;0;-1;low;mentalistic
+6;-1;-1;-1;low;pronouns
+7;0;0;-1;low;dispositions
+8;-1;-1;1;low;prediction
+9;-1;1;0;low;nominalism
+10;-1;1;-1;low;propositional attitudes
+11;0;1;1;low;conditionals
+12;-1;-1;0;high;ambiguity
+13;-1;1;-1;high;ordered pair
+14;-1;-1;-1;high;reality
+15;-1;-1;-1;high;reduction
+16;-1;0;0;high;truth functions
+17;1;1;-1;high;parts
+18;0;1;1;high;about
+19;-1;0;1;high;quantification
+20;-1;1;1;high;objects

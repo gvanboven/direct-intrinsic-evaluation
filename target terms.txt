@@ -1,0 +1,63 @@
+terms synonym detection task:
+
+high frequency:
+1, objects, 1985
+2, quantification, 1671
+3, about, 1408
+4, meaning, 1366
+5, object, 1287
+6, time, 1017
+7, translation, 676
+8, attributes, 545
+9, ideas, 444
+10, paradox, 438
+11, observation_sentences, 422
+12, construction, 377
+13, application, 357
+14, description, 350
+15, information, 275
+
+low frequency:
+16, utterances, 84
+17, adjectives, 71
+18, memory, 55
+19, confirmation, 49
+20, posit, 47
+21, subtraction, 42
+22, meaninglessness, 40
+23, nouns, 38
+24, intension, 37
+25, logical_particles, 33
+26, relative_terms, 29
+27, mental_states, 23
+28, transparency, 18
+29, truth_vehicles, 14
+30, intensional_abstraction, 9
+31, sense_datum, 7
+
+
+terms coherence task:
+
+low freq:
+1, sense_datum, 7
+2, intensional_abstraction, 9
+3, truth_vehicles, 14
+4, conditioning, 91
+5, mentalistic, 98
+6, pronouns, 111
+7, dispositions, 112
+8, prediction, 113
+9, nominalism, 123
+10, propositional_attitudes, 138
+11, conditionals, 141
+
+high freq:
+12, ambiguity, 188
+13, ordered_pair, 191
+14, reality, 207
+15, reduction, 217
+16, truth_functions, 267
+17, parts, 272
+18, about, 1408
+19, quantification, 1671
+20, objects, 1985
